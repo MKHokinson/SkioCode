@@ -1,0 +1,21 @@
+{
+  "name": "skiocode",
+  "displayName": "SkioCode",
+  "description": "Theme inspired by Skio brand color palette",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SkioCodeNight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SkioCodeNight-color-theme.json"
+      }
+    ]
+  }
+}
