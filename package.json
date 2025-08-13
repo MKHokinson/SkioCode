@@ -1,6 +1,10 @@
 {
   "name": "skiocode",
   "displayName": "SkioCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MKHokinson/SkioCode"
+  },
   "description": "Theme inspired by Skio brand color palette",
   "version": "0.0.1",
   "engines": {
